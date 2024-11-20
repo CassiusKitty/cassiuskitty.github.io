@@ -2,7 +2,7 @@ html,body{
     height: 100%;
 }
 body{
-    background-color: #008080;
+    background-color: #000a0a;
 }
 .mainbox{
     display: flex;
@@ -10,6 +10,9 @@ body{
     justify-content: center;
     height: 100%;
 }
+.about{
+    color: white;
+}
 .title-bar {
-    background:linear-gradient(90deg,#e4c03e,#4a40a1);
+    background:linear-gradient(90deg,#310000,#474205);
 }
