@@ -1,14 +1,6 @@
-html,body{
-    height: 100%;
-}
+@import url(style.css);
 body{
     background-color: #000a0a;
-}
-.mainbox{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
 }
 .about{
     color: white;
