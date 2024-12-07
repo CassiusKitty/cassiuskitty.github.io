@@ -1,5 +1,5 @@
 html,body{
-    height: 100%;
+    height: 100vh;
 }
 body{
     background-color: #008080;
@@ -8,8 +8,18 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100%;
+    height: 100vh;
+}
+.window {
+    min-width: 60vw;
 }
 .title-bar {
     background:linear-gradient(90deg,#e4c03e,#4a40a1);
+}
+.window,
+.title-bar,
+.field-row,
+a.field-row,
+button.field-row {
+    font-size: 13px;
 }
