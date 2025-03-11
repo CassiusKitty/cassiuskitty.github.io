@@ -1,0 +1,10 @@
+@import url(style.css);
+body{
+    background-color: #000a0a;
+}
+.about{
+    color: white;
+}
+.title-bar {
+    background:linear-gradient(90deg,#310000,#474205);
+}
