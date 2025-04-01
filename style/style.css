@@ -19,11 +19,32 @@ main{
     max-width: 65%;
     max-height: 50%;
 
-    outline: 2px solid rgba(0, 0, 0, 0.307);
+    outline: 2px solid #46432665;
     border-radius: 25px;
     padding: 50px;
     backdrop-filter: blur(10px);
+    background-color: #0000001a;
     color: #000;
+}
+hr{
+    width: 20%;
+    color: #46432665;
+   
+}
+@media (max-width: 200px) {
+    main{
+        max-height: 95%;
+    }
+}
+@media (max-width: 400px) {
+    main{
+        max-height: 95%;
+    }
+}
+@media (max-width: 600px) {
+    main{
+        max-height: 95%;
+    }
 }
 #kasjusz{
     width: 150px;
