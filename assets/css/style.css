@@ -2,6 +2,11 @@ html,body{
     height: 100%;
     overflow: hidden;
 }
+.fa-solid,
+.fa-brands,
+.fa-solid {
+    color: black;
+  }
 body{
     display: flex;
     justify-content: center;
@@ -81,4 +86,9 @@ hr{
         background-color: #00000075;
         color: #FFF;
     }
+    .fa-solid,
+    .fa-brands,
+    .fa-solid {
+        color: #FFF;
+  }
 }
