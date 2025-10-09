@@ -91,4 +91,9 @@ hr{
     .fa-solid {
         color: #FFF;
   }
+  hr{
+    width: 20%;
+    color: #ebd99f65;
+   
+}
 }
